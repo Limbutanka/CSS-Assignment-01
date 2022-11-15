@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<style>
+<h1 {
+color green;
+font family:arial;
+}
+img {
+border-radious:20px;
+}
+p {
+color:green;
+font-size:20px;
+background-color:red;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+<img src="1.jpg"/>
+</body>
+</html>
